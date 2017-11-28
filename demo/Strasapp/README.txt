@@ -1,1 +1,1 @@
-Cette application dont le but est de trouver la meilleur FLAMMENKUCHE 
+Le but de cette application est de trouver la meilleur FLAMMENKUCHE 
